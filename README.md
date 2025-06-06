@@ -4,8 +4,6 @@
 
 Uso modelos predictivos y herramientas BI para traducir datos en decisiones claras que mejoran operaciones y resultados..
 
----
-
 ## 🚀 Habilidades
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,8 +26,6 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## 📂 Repositorios Destacados
 
 ### 🔬 [MachineLearning](https://github.com/LuisEduardoRomeroOlmos/MachineLearning)
@@ -50,7 +46,7 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 ---<p>[Proyecto 1]<span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" href="https://github.com/LuisEduardoRomeroOlmos/portafolio_power_bi/tree/main/Finanzas%20Personales">Dashboard Finanzas Personales</a></span><br />Proyecto de an&aacute;lisis y visualizaci&oacute;n de datos financieros personales utilizando Power BI. Incluye dashboards interactivos para el seguimiento de ingresos, gastos, ahorro y presupuesto, facilitando la toma de decisiones financieras personales basadas en datos claros y actualizados.</p>
 <p>&nbsp;</p>
 
-### 📈 [portafolio en Kaggle ] <p><a href="https://www.kaggle.com/luiseduardoromeroolm">Proyectos en Kaggle</a></p>
+### 📈 [portafolio en Kaggle ] <a href="https://www.kaggle.com/luiseduardoromeroolm">Proyectos en Kaggle</a>
 
 ## 📬 Contacto
 
