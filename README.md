@@ -34,7 +34,7 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 - Clasificación de clientes según comportamiento
 - Optimización con Optuna y validación cruzada
 
-----<p>[Proyecto 1]<span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" href="https://www.kaggle.com/luiseduardoromeroolm" target="_blank" rel="noopener">Detecci&oacute;n de Operaciones Fraudulentas - Mediante MLP</a></span><br />&nbsp; Datos altamente desbalanceados (.017% de la clase 1) Logrando un Recall- Precisi&oacute;n del 80-83 % en datos de Validaci&oacute;n</p>
+<p><strong>----[Proyecto 1]</strong><span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" href="https://www.kaggle.com/luiseduardoromeroolm" target="_blank" rel="noopener">Detecci&oacute;n de Operaciones Fraudulentas - Mediante MLP</a></span><br />&nbsp; Datos altamente desbalanceados (.017% de la clase 1) Logrando un Recall- Precisi&oacute;n del 80-83 % en datos de Validaci&oacute;n</p>
 <p>&nbsp;</p>
 
 ### 📈 [Portafolio PowerBi](https://github.com/LuisEduardoRomeroOlmos/portafolio_power_bi)
@@ -43,10 +43,11 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 - Visualización de rutas logísticas
 - Reportes financieros interactivos
 
----<p>[Proyecto 1]<span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" href="https://github.com/LuisEduardoRomeroOlmos/portafolio_power_bi/tree/main/Finanzas%20Personales">Dashboard Finanzas Personales</a></span><br />Proyecto de an&aacute;lisis y visualizaci&oacute;n de datos financieros personales utilizando Power BI. Incluye dashboards interactivos para el seguimiento de ingresos, gastos, ahorro y presupuesto, facilitando la toma de decisiones financieras personales basadas en datos claros y actualizados.</p>
+<p><strong>---[Proyecto 1]</strong><span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" href="https://github.com/LuisEduardoRomeroOlmos/portafolio_power_bi/tree/main/Finanzas%20Personales">Dashboard Finanzas Personales</a></span><br />Proyecto de an&aacute;lisis y visualizaci&oacute;n de datos financieros personales utilizando Power BI. Incluye dashboards interactivos para el seguimiento de ingresos, gastos, ahorro y presupuesto, facilitando la toma de decisiones financieras personales basadas en datos claros y actualizados.</p>
 <p>&nbsp;</p>
 
-### 📈 [Portafolio en Kaggle ](https://www.kaggle.com/luiseduardoromeroolm">Proyectos en Kaggle)
+### 📈 [Portafolio en Kaggle](https://www.kaggle.com/luiseduardoromeroolm)
+
 
 ## 📬 Contacto
 
