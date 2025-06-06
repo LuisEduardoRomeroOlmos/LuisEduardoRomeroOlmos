@@ -1,20 +1,3 @@
-# ✨ Luis Eduardo Romero Olmos
-
-  Using data science to solve real-world problems.
-
-## 🚀 Tecnologías
-- Python | SQL | Power BI | Redes Neuronales | Mat
-- Machine Learning | Pandas | Scikit-learn | Numpy | Keras | 
-
-## 📂 Portafolios destacados
-- [Análisis de datos](https://github.com/LuisEduardoRomeroOlmos/Analisis_de_Datos)
-- [Modelos de Machine Learning](https://github.com/LuisEduardoRomeroOlmos/MachineLearning)
-
-📫 Contacto: luiseduardoromeroolmos@aol.com
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 # 👨‍💻 Luis Eduardo Romero Olmos
 
 📊 **Data Scientist | Machine Learning Enthusiast | Power BI Developer**
@@ -26,10 +9,23 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 ## 🚀 Habilidades
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Redes Neuronales](https://img.shields.io/badge/Redes%20Neuronales-673AB7?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Estadística](https://img.shields.io/badge/Estadística-4CAF50?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
