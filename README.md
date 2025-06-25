@@ -48,12 +48,12 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 
 ### 📈 [Portafolio en Kaggle](https://www.kaggle.com/luiseduardoromeroolm)
 
-# Proyectos en Produccion con Streamlit (Apps)
+## Proyectos en Produccion con Streamlit (Apps)
 Este repositorio contiene dos aplicaciones de clasificación de imágenes que desarrollé desde cero usando redes neuronales profundas y Streamlit para su despliegue. Cada aplicación permite al usuario subir una imagen y recibir el top de predicciones sobre qué clase pertenece, ya sea una flor o una raza de perro.
 
 ---
 
-## 🐶 Clasificador de Perros
+### 🐶 Clasificador de Perros
 
 🔗 [App en producción (Stanford Dogs)](https://clasificacion-perros.streamlit.app/)
 
@@ -69,7 +69,7 @@ Este repositorio contiene dos aplicaciones de clasificación de imágenes que de
 
 ---
 
-## 🌸 Clasificador de Flores
+### 🌸 Clasificador de Flores
 
 🔗 [App en producción (Oxford Flowers 102)](https://clasificacion-flores.streamlit.app/)
 
@@ -85,7 +85,7 @@ Este repositorio contiene dos aplicaciones de clasificación de imágenes que de
 
 ---
 
-## 🚀 Tecnologías utilizadas
+### 🚀 Tecnologías utilizadas
 
 - Python 3.x
 - TensorFlow / Keras
@@ -96,7 +96,7 @@ Este repositorio contiene dos aplicaciones de clasificación de imágenes que de
 ---
 
 
-## 📬 Contacto
+### 📬 Contacto
 
 - 📧 luiseduardoromeroolmos@aol.com
 - 💼 https://www.linkedin.com/in/luis-eduardo-romero-olmos-01b49513b/
