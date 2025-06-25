@@ -48,7 +48,8 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 
 ### 📈 [Portafolio en Kaggle](https://www.kaggle.com/luiseduardoromeroolm)
 
-## Proyectos en Produccion con Streamlit (Apps)
+
+### 🔬 Proyectos en Produccion con Streamlit (Apps)
 Este repositorio contiene dos aplicaciones de clasificación de imágenes que desarrollé desde cero usando redes neuronales profundas y Streamlit para su despliegue. Cada aplicación permite al usuario subir una imagen y recibir el top de predicciones sobre qué clase pertenece, ya sea una flor o una raza de perro.
 
 ---
