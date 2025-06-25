@@ -48,6 +48,53 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 
 ### 📈 [Portafolio en Kaggle](https://www.kaggle.com/luiseduardoromeroolm)
 
+# Proyectos en Produccion con Streamlit (Apps)
+Este repositorio contiene dos aplicaciones de clasificación de imágenes que desarrollé desde cero usando redes neuronales profundas y Streamlit para su despliegue. Cada aplicación permite al usuario subir una imagen y recibir el top de predicciones sobre qué clase pertenece, ya sea una flor o una raza de perro.
+
+---
+
+## 🐶 Clasificador de Perros
+
+🔗 [App en producción (Stanford Dogs)](https://clasificacion-perros.streamlit.app/)
+
+- Dataset utilizado: **Stanford Dogs**
+- Número de clases: **120** razas de perro
+- Imágenes de entrenamiento: **16,000**
+- Arquitectura del modelo: CNN con capa final `Softmax`
+- Función de pérdida: `SparseCategoricalCrossentropy`
+- Técnicas utilizadas:
+  - Transfer Learning (EfficientNetB3)
+  - Data augmentation
+- Precisión validada sobre el conjunto de test/val
+
+---
+
+## 🌸 Clasificador de Flores
+
+🔗 [App en producción (Oxford Flowers 102)](https://clasificacion-flores.streamlit.app/)
+
+- Dataset utilizado: **Oxford Flowers 102**
+- Número de clases: **102** especies florales
+- Imágenes de entrenamiento: **6,000**
+- Arquitectura del modelo: CNN con capa final `Softmax`
+- Función de pérdida: `SparseCategoricalCrossentropy`
+- Técnicas utilizadas:
+  - Transfer Learning(Mobilenetv2)
+  - Data augmentation
+  - Batch normalization y regularización
+
+---
+
+## 🚀 Tecnologías utilizadas
+
+- Python 3.x
+- TensorFlow / Keras
+- NumPy, Pandas, Matplotlib
+- Streamlit (para el frontend y despliegue)
+- Scikit-learn (para métricas y análisis)
+
+---
+
 
 ## 📬 Contacto
 
