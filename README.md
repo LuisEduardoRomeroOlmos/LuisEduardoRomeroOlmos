@@ -34,7 +34,7 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 - Clasificación de clientes según comportamiento
 - Optimización con Optuna y validación cruzada
 
-<p><strong>----[Proyecto 1]</strong><span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" href="https://www.kaggle.com/luiseduardoromeroolm" target="_blank" rel="noopener">Detecci&oacute;n de Operaciones Fraudulentas - Mediante MLP</a></span><br />&nbsp; Datos altamente desbalanceados (.017% de la clase 1) Logrando un Recall- Precisi&oacute;n del 80-83 % en datos de Validaci&oacute;n</p>
+<p><strong>----[Proyecto 1]</strong><span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" href="[https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/main/fraud_detection_project](https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/main/fraud_detection_project)" target="_blank" rel="noopener">Detecci&oacute;n de Operaciones Fraudulentas - Mediante MLP</a></span><br />&nbsp; Datos altamente desbalanceados (.017% de la clase 1) Logrando un Recall- Precisi&oacute;n del 80-83 % en datos de Validaci&oacute;n</p>
 <p>&nbsp;</p>
 
 ### 📈 [Portafolio PowerBi](https://github.com/LuisEduardoRomeroOlmos/portafolio_power_bi)
@@ -47,6 +47,7 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 <p>&nbsp;</p>
 
 ### 📈 [Portafolio en Kaggle](https://www.kaggle.com/luiseduardoromeroolm)
+
 
 
 ### 🔬 Proyectos en Produccion con Streamlit (Apps)
