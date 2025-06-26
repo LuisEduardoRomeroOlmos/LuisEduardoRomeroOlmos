@@ -34,7 +34,7 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 - Clasificación de clientes según comportamiento
 - Optimización con Optuna y validación cruzada
 
-<p><strong>----[Proyecto 1]</strong><span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" href="LuisEduardoRomeroOlmos/MachineLearning/fraud_detection_project" target="_blank" rel="noopener">Detecci&oacute;n de Operaciones Fraudulentas - Mediante MLP</a></span><br />&nbsp; Datos altamente desbalanceados (.017% de la clase 1) Logrando un Recall- Precisi&oacute;n del 80-83 % en datos de Validaci&oacute;n</p>
+<p><strong>----[Proyecto 1]<span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" href="https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/1129c1d1bc43aeffa989198c242d4463ed91acd5/fraud_detection_project"> Detecci&oacute;n de operaciones Fraudulentas - MLP</a></span></strong><br />&nbsp; Datos altamente desbalanceados (.017% de la clase 1) Logrando un Recall- Precisi&oacute;n del 80-83 % en datos de Validaci&oacute;n</p>
 <p>&nbsp;</p>
 
 ### 📈 [Portafolio PowerBi](https://github.com/LuisEduardoRomeroOlmos/portafolio_power_bi)
