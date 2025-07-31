@@ -48,8 +48,6 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 - Despliegue de modelos escalables usando BentoML, Docker, Gradio, Streamlit, FastAPI y Flask 
 - Monitoreo y evaluación continua en producción para detección de deriva y mantenimiento (Evidently IA, DeepChecks)
 
----
-
 ### Proyecto: [Detección de Hongos Venenosos - MLOps](https://dagshub.com/LuisEduardoRomeroOlmos/mlops_Project)  
 Este proyecto implementa un pipeline completo de MLOps para la clasificación de hongos comestibles vs venenosos usando el dataset de Mushroom (UCI). Se aplicaron prácticas modernas de ciencia de datos, incluyendo versionamiento de datos, trazabilidad del modelo, despliegue como servicio y modularidad del código.
 
@@ -70,6 +68,8 @@ Git, DVC Pipeline, DAGsHub, MLflow, Poetry, Docker, BentoML, XGBoost, Pipeline d
 <p><strong>----[Proyecto 1]<span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" href="https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/1129c1d1bc43aeffa989198c242d4463ed91acd5/fraud_detection_project"> Detecci&oacute;n de operaciones Fraudulentas - MLP</a></span></strong><br />&nbsp; Datos altamente desbalanceados (.017% de la clase 1) Logrando un Recall- Precisi&oacute;n del 80-83 % en datos de Validaci&oacute;n</p>
 <p>&nbsp;</p>
 
+---
+
 ### 📈 [Portafolio PowerBi](https://github.com/LuisEduardoRomeroOlmos/portafolio_power_bi)
 > Dashboards interactivos en Power BI para análisis de ventas, logística y finanzas.
 - Análisis de KPI's para e-commerce
@@ -79,8 +79,11 @@ Git, DVC Pipeline, DAGsHub, MLflow, Poetry, Docker, BentoML, XGBoost, Pipeline d
 <p><strong>---[Proyecto 1]</strong><span style="background-color: #bfedd2;"><a style="background-color: #bfedd2;" href="https://github.com/LuisEduardoRomeroOlmos/portafolio_power_bi/tree/main/Finanzas%20Personales">Dashboard Finanzas Personales</a></span><br />Proyecto de an&aacute;lisis y visualizaci&oacute;n de datos financieros personales utilizando Power BI. Incluye dashboards interactivos para el seguimiento de ingresos, gastos, ahorro y presupuesto, facilitando la toma de decisiones financieras personales basadas en datos claros y actualizados.</p>
 <p>&nbsp;</p>
 
+---
+
 ### 📈 [Portafolio en Kaggle](https://www.kaggle.com/luiseduardoromeroolm)
 
+---
 
 
 ### 🔬 Proyectos en Produccion con Streamlit (Apps)
