@@ -20,13 +20,46 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Redes Neuronales](https://img.shields.io/badge/Redes%20Neuronales-673AB7?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/Redes%20Neuronales-673AB7?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Estadística](https://img.shields.io/badge/Estadística-4CAF50?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![BentoML](https://img.shields.io/badge/BentoML-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0180BE?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![DAGsHub](https://img.shields.io/badge/DAGsHub-F9AB00?style=for-the-badge&logo=dagger&logoColor=white)
+![CML](https://img.shields.io/badge/CML-1E1E1E?style=for-the-badge&logo=gitlab&logoColor=white)
+![Deepchecks](https://img.shields.io/badge/Deepchecks-512DA8?style=for-the-badge&logo=checkmarx&logoColor=white)
+
 
 ## 📂 Repositorios Destacados
+
+### ⚙️ [MLOps End to End](https://dagshub.com/LuisEduardoRomeroOlmos)  
+> Gestión completa del ciclo de vida de proyectos de Machine Learning aplicados a datos reales, desde la experimentación hasta el despliegue y monitoreo en producción.  
+> Implementación de pipelines reproducibles y automatizados para garantizar calidad, escalabilidad y mantenimiento continuo.  
+
+- Preparación y limpieza avanzada de datos con pipelines reproducibles (DVC Pipeline)
+- Desarrollo y comparación de modelos ML clásicos y redes neuronales (XGBoost, LightGBM, TensorFlow)  
+- Optimización de hiperparámetros con Optuna y validación cruzada robusta  
+- Control de versiones de datos y modelos con DVC y DAGsHub  
+- Automatización de workflows y CI/CD con GitHub Actions y CML  
+- Despliegue de modelos escalables usando BentoML, Docker, Gradio, Streamlit, FastAPI y Flask 
+- Monitoreo y evaluación continua en producción para detección de deriva y mantenimiento (Evidently IA, DeepChecks)
+
+---
+
+### Proyecto: [Detección de Hongos Venenosos - MLOps](https://dagshub.com/LuisEduardoRomeroOlmos/mlops_Project)  
+Este proyecto implementa un pipeline completo de MLOps para la clasificación de hongos comestibles vs venenosos usando el dataset de Mushroom (UCI). Se aplicaron prácticas modernas de ciencia de datos, incluyendo versionamiento de datos, trazabilidad del modelo, despliegue como servicio y modularidad del código.
+
+**Tecnologías utilizadas:**  
+Git, DVC Pipeline, DAGsHub, MLflow, Poetry, Docker, BentoML, XGBoost, Pipeline de scikit-learn
+
+**API desplegada:**  
+[mushroom-classifier API](https://mushroom-classifier-udq9-63980ef0.mt-guc1.bentoml.ai/)
+
+---
 
 ### 🔬 [MachineLearning](https://github.com/LuisEduardoRomeroOlmos/MachineLearning)
 > Experimentos y modelos de Machine Learning y Redes neuronales aplicados a datos reales.
