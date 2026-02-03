@@ -36,6 +36,7 @@ Uso modelos predictivos y herramientas BI para traducir datos en decisiones clar
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![BentoML](https://img.shields.io/badge/BentoML-FF6600?style=for-the-badge&logo=python&logoColor=white)
