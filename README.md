@@ -1,6 +1,6 @@
 # 👨‍💻 Luis Eduardo Romero Olmos
 
-📊 **Data Scientist | Machine Learning Enthusiast | Power BI Developer**
+📊 **Data Scientist | Data  Analyst  | BI Developer**
 
 Uso modelos predictivos y herramientas BI para traducir datos en decisiones claras que mejoran operaciones y resultados..
 
